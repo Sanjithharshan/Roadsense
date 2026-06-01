@@ -3,7 +3,6 @@ RoadSense is an AI-powered intelligent system designed to improve road safety by
 
 The platform aims to reduce accidents and improve public safety using machine learning, analytics, and scalable backend services.
 
----
 
 ## Problem Statement
 
@@ -11,7 +10,6 @@ Road accidents remain one of the major causes of injuries and fatalities. Many d
 
 RoadSense addresses this problem by building an intelligent platform that identifies risk-prone regions and provides predictive safety insights.
 
----
 
 ## Features
 
@@ -22,7 +20,6 @@ RoadSense addresses this problem by building an intelligent platform that identi
 * Backend API services
 * Scalable architecture
 
----
 
 ## Tech Stack
 
@@ -47,8 +44,6 @@ RoadSense addresses this problem by building an intelligent platform that identi
 
 * PostgreSQL
 
----
-
 ## Project Structure
 
 backend/ → APIs and backend logic
@@ -61,7 +56,6 @@ data/ → datasets
 
 saved_models/ → trained models
 
----
 
 ## Installation
 
@@ -85,7 +79,6 @@ Run backend:
 
 uvicorn main:app --reload
 
----
 
 ## Future Improvements
 
@@ -95,7 +88,6 @@ uvicorn main:app --reload
 * Improved prediction accuracy
 * Geospatial visualizations
 
----
 
 ## Contributors
 
