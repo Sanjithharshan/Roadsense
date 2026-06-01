@@ -5,14 +5,12 @@ The platform aims to reduce accidents and improve public safety using machine le
 
 
 ## Problem Statement
-
 Road accidents remain one of the major causes of injuries and fatalities. Many dangerous zones lack proactive warning systems and predictive analytics.
 
 RoadSense addresses this problem by building an intelligent platform that identifies risk-prone regions and provides predictive safety insights.
 
 
 ## Features
-
 * Accident-prone zone identification
 * Risk prediction using machine learning
 * Safety warning generation
@@ -22,9 +20,7 @@ RoadSense addresses this problem by building an intelligent platform that identi
 
 
 ## Tech Stack
-
 ### Backend
-
 * Python
 * FastAPI
 * SQLAlchemy
@@ -58,7 +54,6 @@ saved_models/ → trained models
 
 
 ## Installation
-
 Clone repository:
 
 git clone <repository-url>
@@ -81,7 +76,6 @@ uvicorn main:app --reload
 
 
 ## Future Improvements
-
 * Real-time traffic integration
 * Mobile application support
 * Live accident alerts
